@@ -1,6 +1,6 @@
 # Code for reproducing the results in the paper "Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping"
 
-Our code here is a Lite version of another private project.
+Our code is modified based on [project DPDL](https://github.com/DPBayes/dpdl).
 
 ## Environment and Modified Libraries
 
