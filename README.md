@@ -1,6 +1,6 @@
-# Code for paper "Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping"
+# Code for the paper "Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping"
 
-Our paper can be found on [TMLR@OpenReview](https://openreview.net/forum?id=UlzcKSHVoN). This codebase is modified based on our [DPDL project](https://github.com/DPBayes/dpdl).
+This repository contains the code for our paper, ["Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping"](https://openreview.net/forum?id=UlzcKSHVoN), published in TMLR. The codebase is modified from our [DPDL project](https://github.com/DPBayes/dpdl).
 
 ## Environment and Modified Libraries
 
