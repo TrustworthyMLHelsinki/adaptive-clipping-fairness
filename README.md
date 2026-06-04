@@ -1,6 +1,6 @@
-# Code for reproducing the results in the paper "Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping"
+# Code for paper "Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping"
 
-Our code is modified based on [project DPDL](https://github.com/DPBayes/dpdl).
+Our paper can be found on [TMLR@OpenReview](https://openreview.net/forum?id=UlzcKSHVoN). This codebase is modified based on our [DPDL project](https://github.com/DPBayes/dpdl).
 
 ## Environment and Modified Libraries
 
@@ -27,8 +27,6 @@ To keep the consistency with the Opacus and previous paper, the `max_grad_norm` 
 - `test_metrics`: the test metrics.
 - `configuration.*`: the configurations used in the run.
 - `hyperparameters.*`: the hyperparameters used in the run.
-
-### Image Datasets
 
 The `MulticlassAccuracy` is the MacroAccuracy, while the Worst metric can be post-processing with `MulticlassAccuracyPerClass`.
 
